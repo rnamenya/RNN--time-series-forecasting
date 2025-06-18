@@ -2,7 +2,8 @@
 
 # Time-Series Forecasting with Recurrent Neural Network (RNN)
 
-![image](https://github.com/user-attachments/assets/cb15260e-af71-46f3-902d-d511d157a755)
+![image](https://github.com/user-attachments/assets/4b47576b-d1b0-4725-97ed-74d0d2f95c8f)
+
 
 
 ## 📌 Overview
