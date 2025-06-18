@@ -2,6 +2,9 @@
 
 # Time-Series Forecasting with Recurrent Neural Network (RNN)
 
+![image](https://github.com/user-attachments/assets/cb15260e-af71-46f3-902d-d511d157a755)
+
+
 ## 📌 Overview
 This project demonstrates how to use a Recurrent Neural Network (RNN) to analyze and forecast time-series data. The model is designed to uncover temporal patterns and make accurate predictions that can inform strategic business decisions.
 
